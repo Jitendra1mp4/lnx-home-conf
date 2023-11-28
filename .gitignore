@@ -6,10 +6,12 @@
 !.gitconfig
 !.ackrc
 !.zshrc
+!*.vimrc
+!*.vim
+!*.bashrc
 !.gitignore_global
 !.gitattributes_global
 !.travis.yml
-!.vimrc   
 !README.md
 
 # And those folders.
