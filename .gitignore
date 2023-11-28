@@ -1,0 +1,22 @@
+# Ignore everything
+*
+
+# But not these files.
+!.gitignore
+!.gitconfig
+!.ackrc
+!.zshrc
+!.gitignore_global
+!.gitattributes_global
+!.travis.yml
+!.vimrc   
+!README.md
+
+# And those folders.
+!.config/
+!.config/bspwm/
+!.config/bspwm/**
+!.config/sxhkd/
+!.config/sxhkd/**
+!.config/polybar/
+!.config/polybar/**
